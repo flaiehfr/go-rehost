@@ -6,6 +6,6 @@ Prends un paramètre `-file` désignant le fichier à uploader, et écrit sur la
 
 Example:
 ```
-> go-rehost -file C:/temp/forum_logo.gif
-https://rehost.diberie.com/Picture/Get/f/296857
+> .\go-rehost.exe -file C:/temp/forum_logo.gif
+https://rehost.diberie.com/Picture/Get/f/296858
 ```
